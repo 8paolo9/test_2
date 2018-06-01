@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ciao
 
 ciao2
@@ -7,3 +8,6 @@ ciao3
 ciao local
 
 ciao online
+=======
+ciao
+>>>>>>> parent of 1aaa3fc... ciao2
