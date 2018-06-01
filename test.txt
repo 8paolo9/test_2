@@ -4,9 +4,3 @@ ciao2
 
 ciao3
 
-<<<<<<< HEAD
-
-ciao 4
-=======
-ciao5
->>>>>>> 2adc1453433524f8fe31944b24e38c04420bfa53
